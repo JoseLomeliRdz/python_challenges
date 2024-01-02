@@ -1,5 +1,4 @@
 from random import randrange
-import numpy as np
 
 def display_board(board):
     # The function accepts one parameter containing the board's current status
